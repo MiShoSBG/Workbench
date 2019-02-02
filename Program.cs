@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 change with tortoise petko bakugana
+=======
+change with git
+change with tortoise
+>>>>>>> d3eb16a8d7d06abacef9c10af3af4f04b7beb653
 using System;
 using System.Collections.Generic;
 using System.Linq;
